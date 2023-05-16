@@ -1,10 +1,10 @@
-# InsightFace: 2D and 3D Face Analysis Project
+# FaceAnalyzer: 2D and 3D Face Analysing Project
 
 <div align="left">
   <img src="https://www.turing.com/_next/image?url=https%3A%2F%2Fd2mk45aasx86xg.cloudfront.net%2FUsing_Deep_Learning_to_Design_Real_time_Face_Detection_and_Recognition_Systems_938a8cdcd7.jpg&w=1920&q=75" width="1000"/>
 </div>
 
-InsightFace project is mainly maintained By [Jia Guo](mailto:guojia@gmail.com?subject=[GitHub]%20InsightFace%20Project) and [Jiankang Deng](https://jiankangdeng.github.io/). 
+FaceAnalyzer project is mainly maintained By [Jia Guo](mailto:guojia@gmail.com?subject=[GitHub]%20InsightFace%20Project) and [Jiankang Deng](https://jiankangdeng.github.io/). 
 
 For all main contributors, please check [contributing](#contributing).
 
@@ -50,9 +50,9 @@ Both manual-downloading models from our github repo and auto-downloading models 
 
 ## Introduction
 
-[FaceAnalyzer](https://insightface.ai) is an open source 2D&3D deep face analysis toolbox, mainly based on PyTorch and MXNet. 
+[FaceAnalyzer](https://github.com/deepanjansitt/Face_Analyzer) is an open source 2D&3D deep face analysis toolbox, mainly based on PyTorch and MXNet. 
 
-Please check our [website](https://insightface.ai) for detail.
+Please check our [website](https://github.com/deepanjansitt/Face_Analyzer) for detail.
 
 The master branch works with **PyTorch 1.6+** and/or **MXNet=1.6-1.8**, with **Python 3.x**.
 
