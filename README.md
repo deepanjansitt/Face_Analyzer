@@ -1,8 +1,7 @@
-
 # InsightFace: 2D and 3D Face Analysis Project
 
 <div align="left">
-  <img src="https://insightface.ai/assets/img/custom/logo3.jpg" width="240"/>
+  <img src="https://www.turing.com/_next/image?url=https%3A%2F%2Fd2mk45aasx86xg.cloudfront.net%2FUsing_Deep_Learning_to_Design_Real_time_Face_Detection_and_Recognition_Systems_938a8cdcd7.jpg&w=1920&q=75" width="1000"/>
 </div>
 
 InsightFace project is mainly maintained By [Jia Guo](mailto:guojia@gmail.com?subject=[GitHub]%20InsightFace%20Project) and [Jiankang Deng](https://jiankangdeng.github.io/). 
@@ -11,7 +10,7 @@ For all main contributors, please check [contributing](#contributing).
 
 ## Top News
 
-**`2023-05-03`**: We have launched the ongoing version of wild face anti-spoofing challenge. See details [here](https://github.com/deepinsight/insightface/tree/master/challenges/cvpr23-fas-wild#updates).
+**`2023-05-03`**: We have launched the ongoing version of wild face anti-spoofing challenge. See details [here](https://github.com/deepanjansitt/insightface/tree/master/challenges/cvpr23-fas-wild#updates).
 
 **`2023-04-01`**: We move the swapping demo to Discord bot, which support editing on Midjourney generated images, see detail at [web-demos/swapping_discord](web-demos/swapping_discord).
 
@@ -113,7 +112,7 @@ We provide standard IJB and Megaface evaluation pipelines in [evaluation](recogn
 
 ### Pretrained Models
 
-**Please check [Model-Zoo](https://github.com/deepinsight/insightface/wiki/Model-Zoo) for more pretrained models.**
+**Please check [Model-Zoo](https://github.com/deepanjansitt/insightface/wiki/Model-Zoo) for more pretrained models.**
 
 ### Third-party Re-implementation of ArcFace
 
