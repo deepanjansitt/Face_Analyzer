@@ -50,7 +50,7 @@ Both manual-downloading models from our github repo and auto-downloading models 
 
 ## Introduction
 
-[InsightFace](https://insightface.ai) is an open source 2D&3D deep face analysis toolbox, mainly based on PyTorch and MXNet. 
+[FaceAnalyzer](https://insightface.ai) is an open source 2D&3D deep face analysis toolbox, mainly based on PyTorch and MXNet. 
 
 Please check our [website](https://insightface.ai) for detail.
 
