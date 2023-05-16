@@ -6,7 +6,7 @@
 
 FaceAnalyzer project is mainly maintained By [Deepanjan Sitt](https://github.com/deepanjansitt). 
 
-For all main contributors, please check [contributing](#contributing).
+For all main contributors, please check [credits](#credits).
 
 ## Top News
 
@@ -244,12 +244,11 @@ year={2019}
 }
 ```
 
-## Contributing
+## Credits
 
-Main contributors:
+- Graphics: [photoshop](https://www.adobe.com/products/photoshop.html) and [illustrator](https://www.adobe.com/products/illustrator.html)
+- Audio: [FL Studio](https://www.image-line.com/flstudio/) and [freesound.org](https://freesound.org/)
+- Thanks to all of the friends for their awesome help.
 
-- [Jia Guo](https://github.com/nttstar), ``guojia[at]gmail.com``
-- [Jiankang Deng](https://github.com/jiankangdeng) ``jiankangdeng[at]gmail.com``
-- [Xiang An](https://github.com/anxiangsir) ``anxiangsir[at]gmail.com``
-- [Jack Yu](https://github.com/szad670401) ``jackyu961127[at]gmail.com``
-- [Baris Gecer](https://barisgecer.github.io/) ``barisgecer[at]msn.com``
+
+Made with :heart: by [deepanjansitt](https://github.com/deepanjansitt)
